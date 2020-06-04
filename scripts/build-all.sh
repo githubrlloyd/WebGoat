@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#
 cd ..
 
 nc -zv 127.0.0.1 8080 2>/dev/null
